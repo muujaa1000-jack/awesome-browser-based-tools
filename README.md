@@ -58,6 +58,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [tldraw](https://www.tldraw.com/) - Whiteboard and drawing app built for the web. `open-source`
 - [Kapwing](https://www.kapwing.com/tools) - Collection of browser-based media editing tools for creators.
 - [EzGIF](https://ezgif.com/) - Long-running web toolkit for GIF editing, conversion, resizing, cropping, and optimization.
+- [BonRurgundy](https://spacecowboyian.github.io/BonRurgundy/) - Voice-tracking teleprompter: the script scrolls as you read it aloud, with voice commands to rewind or jump; optional camera feed behind the words. Scripts and settings stay on the device. `local-first` `open-source` `privacy-first` `pwa`
 
 ## Developer Utilities
 
